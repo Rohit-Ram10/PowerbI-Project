@@ -1,7 +1,7 @@
 # Coffee Sales Analysis
 This project presents a visually engaging and insightful dashboard created using Power BI to analyze coffee shop sales performance. It showcases key metrics and trends, helping stakeholders gain a quick understanding of sales dynamics, customer behavior, and top-performing products.
 
-Utilized MySQL to perform data analysis and uncover key sales insights for the coffee shop business:
+Utilized Power BI and MySQL to perform data analysis and uncover key sales insights for the coffee shop business:
 
 1. Calculate Total Sales for Each Month
 2. Aggregate monthly sales to identify revenue trends over time.
